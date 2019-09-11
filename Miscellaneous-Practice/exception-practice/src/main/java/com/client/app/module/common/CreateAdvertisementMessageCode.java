@@ -7,11 +7,11 @@
  * and copyright law. Dissemination of this information or reproduction of this material in any form
  * is strictly forbidden without prior written permission.
  *******************************************************************************/
-package com.pst.app.crewpro.crew.advertisement.create.v1_0.common;
+package com.client.app.module.common;
 
-import com.pst.app.crewpro.common.exception.DefaultMessageCode;
-import com.pst.app.crewpro.common.exception.MessageCode;
-import com.pst.app.crewpro.common.vo.MessageType;
+import com.client.app.module.common.exception.DefaultMessageCode;
+import com.client.app.module.common.exception.MessageCode;
+import com.client.app.module.common.vo.MessageType;
 
 public enum CreateAdvertisementMessageCode
         implements MessageCode {

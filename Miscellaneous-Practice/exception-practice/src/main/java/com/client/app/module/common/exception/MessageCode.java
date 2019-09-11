@@ -1,6 +1,6 @@
-package com.pst.app.crewpro.common.exception;
+package com.client.app.module.common.exception;
 
-import com.pst.app.crewpro.common.vo.MessageType;
+import com.client.app.module.common.vo.MessageType;
 
 public interface MessageCode {
 

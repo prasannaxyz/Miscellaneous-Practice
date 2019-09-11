@@ -1,4 +1,4 @@
-package com.pst.app.crewpro.common.vo;
+package com.client.app.module.common.vo;
 
 public enum MessageType {
     INFO,

@@ -1,4 +1,4 @@
-package com.pst.app.crewpro.common.exception;
+package com.client.app.module.common.exception;
 
 import java.util.ArrayList;
 import java.util.Arrays;

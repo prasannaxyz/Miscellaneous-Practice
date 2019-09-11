@@ -1,8 +1,8 @@
-package com.pst.app.crewpro.common.exception;
+package com.client.app.module.common.exception;
 
 import org.apache.commons.lang3.ObjectUtils;
 
-import com.pst.app.crewpro.common.vo.MessageType;
+import com.client.app.module.common.vo.MessageType;
 
 public class DefaultMessageCode implements MessageCode {
   private final String message;
